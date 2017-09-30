@@ -8,6 +8,12 @@ Create a design pattern using Python.
 The design pattern to be implemented is noted below.
 
 ### 1. Iterator
+```
+# Run sample program
+$ cd iterator/
+$ python sample.py
+
+```
 
 ### 2. Adapter
 

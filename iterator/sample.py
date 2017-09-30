@@ -13,9 +13,9 @@ class BookShelf(Aggregate):
     """
     BookShelf class
     """
-    last = 0
     def __init__(self):
         self.books = []
+        self.last = 0
 
 
     def appendBook(self, book):
