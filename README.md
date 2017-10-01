@@ -12,7 +12,6 @@ The design pattern to be implemented is noted below.
 # Run sample program
 $ cd iterator/
 $ python sample.py
-
 ```
 
 ### 2. Adapter
@@ -20,10 +19,14 @@ $ python sample.py
 # Run sample program
 $ cd adapter/
 $ python sample.py
-
 ```
 
 ### 3. Template Method
+```
+# Run sample program
+$ cd template_method/
+$ python sample.py
+```
 
 ### 4. Factory Method
 
