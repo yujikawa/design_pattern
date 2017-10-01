@@ -16,6 +16,12 @@ $ python sample.py
 ```
 
 ### 2. Adapter
+```
+# Run sample program
+$ cd adapter/
+$ python sample.py
+
+```
 
 ### 3. Template Method
 
