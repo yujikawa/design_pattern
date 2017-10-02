@@ -1,8 +1,12 @@
 # Design Pattern by Python
 Create a design pattern using Python.
 
+## References
+If you would like to know more detailed information please see the reference book.
+* <a href="http://amzn.asia/3qXGTAS">増補改訂版Java言語で学ぶデザインパターン入門(結城 浩著)</a>
+
 ## Recommended system
-* Python 3.X
+* Python 3.5 or higher
 
 ## Desing Pattern list
 The design pattern to be implemented is noted below.
@@ -29,6 +33,11 @@ $ python sample.py
 ```
 
 ### 4. Factory Method
+```
+# Run sample program
+$ cd factory_method/
+$ python sample.py
+```
 
 ### 5. Singleton
 
