@@ -40,6 +40,11 @@ $ python sample.py
 ```
 
 ### 5. Singleton
+```
+# Run sample program
+$ cd singleton/
+$ python sample.py
+```
 
 ### 6. Prototype
 
