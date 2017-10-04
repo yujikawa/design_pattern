@@ -47,6 +47,11 @@ $ python sample.py
 ```
 
 ### 6. Prototype
+```
+# Run sample program
+$ cd prototype/
+$ python sample.py
+```
 
 ### 7. Builder
 
