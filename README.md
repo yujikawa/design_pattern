@@ -54,6 +54,11 @@ $ python sample.py
 ```
 
 ### 7. Builder
+```
+# Run sample program
+$ cd builder/
+$ python sample.py
+```
 
 ### 8. Abstract Factory
 
