@@ -61,6 +61,11 @@ $ python sample.py
 ```
 
 ### 8. Abstract Factory
+```
+# Run sample program
+$ cd abstract_factory/
+$ python sample.py
+```
 
 ### 9. Bridge
 
