@@ -68,6 +68,11 @@ $ python sample.py
 ```
 
 ### 9. Bridge
+```
+# Run sample program
+$ cd bridge/
+$ python sample.py
+```
 
 ### 10. Strategy
 
